@@ -1,0 +1,32 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Teko:wght@300&display=swap');
+
+#app {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+}
+
+#app .container {
+  width: 376px;
+  height: 666px;
+  z-index: 100;
+
+  /* background: white; */
+
+
+
+  background: #E7F2F8;
+  border-radius: 3px;
+  box-shadow: 0 0 5px 0 rgba(0, 0, 0, .9);
+}
+
+#app .container-view {
+  padding: 20px;
+}
+

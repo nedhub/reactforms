@@ -1,0 +1,64 @@
+.bottomnavbar {
+    display: flex;
+    flex-direction: row;
+    margin-right: 40px;
+    height: 80px;
+    width: 376px;
+    background-color: #ddd8c5;
+    /* padding-left: 40px !important; */
+    position: relative;
+    right: 20px;
+    top: 50px;
+    justify-content: space-between;
+}
+
+.phonebottom {
+    height: 40px;
+    width: 40px;
+    position: relative;
+    bottom: -20px;
+    
+}
+
+.userbottom {
+    height: 40px;
+    width: 40px;
+    position: relative;
+    bottom: -20px;
+    
+}
+
+.gitbottom {
+position: relative;
+bottom: -20px;
+    
+}
+
+.setbottom {
+    position: relative;
+    bottom: -20px;
+}
+
+.otherbottom {
+    position: relative;
+    bottom: -20px;
+}
+
+.phonenumber {
+    height: 20px;
+    width: 30px;
+    border-radius: 25px;
+    background-color: red;
+    position: relative;
+    left: 20px;
+    top: -50px;
+}
+
+.actual {
+    font-size: 14px;
+    font-weight: 600;
+    color: white;
+    position: relative;
+    left: 8px;
+    top: 3px;
+}
