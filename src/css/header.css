@@ -10,3 +10,73 @@ header svg {
   display: block;
   width: 100%; height: 100%;
 }
+
+
+.cont {
+
+}
+
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  width: 100%;
+}
+
+.forgot {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  position: relative;
+  left: 150px;
+  text-decoration: underline;
+  font-size: 20px;
+}
+
+.account {
+  padding-bottom: 20px;
+  position: relative;
+  left: 150px;
+  font-size: 20px;
+}
+
+.bold {
+  font-weight: 900;
+  text-decoration: underline;
+}
+
+.email {
+  position: relative;
+  left: 150px;
+  text-decoration: underline;
+  font-size: 20px;
+  
+}
+
+.head {
+  font-size: 40px;
+  position: relative;
+  left: 200px;
+  font-weight: 900;
+}
+
+.text {
+  border: none;
+
+}
+
+.email-text {
+  font-size: 30px;
+}
+
+.password-text {
+  font-size: 30px;
+}
+
+.remember-text {
+  font-size: 20px;
+}

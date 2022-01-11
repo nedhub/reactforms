@@ -1,5 +1,5 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Teko:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
 #app {
   position: absolute;
@@ -13,7 +13,7 @@
 }
 
 #app .container {
-  width: 376px;
+  width: 576px;
   height: 666px;
   z-index: 100;
 

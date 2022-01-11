@@ -8,7 +8,7 @@ function FirstActivity() {
             
             <h1 className="test">
                 {/* <FaForumbee/> */}
-                Activity</h1>
+                Sign in</h1>
             
             
         </div>
